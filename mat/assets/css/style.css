@@ -1,0 +1,17 @@
+body{
+	background-image: url(https://static.timesofisrael.com/www/uploads/2021/02/iStock-966248982.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: rgb(230, 0, 0);
+}
+.option{
+  margin: 25px;
+}
+.text{
+  font-size: 30px;
+}
